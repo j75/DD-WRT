@@ -1,2 +1,7 @@
 # DD-WRT
-handling DD-WRT backups
+
+DD-WRT*
+
+This folder contains the sources of programs handling backups from http://www.dd-wrt.com/.
+
+Usage: just make!
